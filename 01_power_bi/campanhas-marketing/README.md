@@ -44,12 +44,6 @@ O painel combina **modelagem de dados**, **medidas DAX** e **visualizações int
 
 ---
 
-## 📁 Arquivo Power BI
-Você pode baixar e explorar o arquivo do projeto:  
-- [`campanhas-marketing.pbix`](campanhas-marketing.pbix)
-
----
-
 ## 📬 Contato
 - **LinkedIn:**(https://linkedin.com/in/erikaleitao)  
 - **E-mail:** erikasmletiao@gmail.com
