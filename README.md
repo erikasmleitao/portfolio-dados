@@ -13,8 +13,7 @@ Bem-vindo ao meu portfólio! Aqui compartilho projetos desenvolvidos em **Power 
 **Performance de Vendas (Power BI)** Análise de vendas por segmento, categoria, fabricante e região, com narrativas inteligentes e mapas interativos. 
 👉 [Ver projeto](01_power_bi/performance-vendas/README.md) - 
 
-**Análise de Dados de RH (Power BI)** Dashboard interativo para explorar dados de Recursos Humanos, incluindo distribuição de gênero, média salarial, tempo de experiência e elegibilidade para promoção. 👉 [Ver projeto](01_power_bi/Dados_RH1/README.md)
-
+**Análise de Dados de RH (Power BI)** Dashboard interativo para explorar dados de Recursos Humanos, incluindo distribuição de gênero, média salarial, tempo de experiência e elegibilidade para promoção. 👉 [Ver projeto](01_power_bi/01_power_bi/Dados_RH1/README.md)
 ---
 
 ## 🚀 Tecnologias Utilizadas
