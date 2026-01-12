@@ -23,6 +23,8 @@ O dashboard foi desenvolvido para responder às seguintes questões estratégica
 7. Nível de envolvimento no trabalho, categorizado em: Ruim, Baixo, Médio e Alto  
 8. **Cálculo adicional (fora do dashboard):** Total e percentual de funcionários elegíveis para promoção, com base na coluna *Anos de Experiência*  
 
+
+## 📊 Dashboard ![Dashboard RH](dash%20rh%201.png)
 ---
 
 ## 📬 Contato
