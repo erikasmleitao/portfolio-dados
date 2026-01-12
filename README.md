@@ -15,7 +15,6 @@ Bem-vindo ao meu portfólio! Aqui compartilho projetos desenvolvidos em **Power 
 
 **Análise de Dados de RH (Power BI)** Dashboard interativo para explorar dados de Recursos Humanos, incluindo distribuição de gênero, média salarial, tempo de experiência e elegibilidade para promoção. 👉 [Ver projeto](01_power_bi/Dados_RH1/README.md)
 
-** Análise de dados de RH (power BI)**   [Ver projeto](01_power_bi/Dados_RH1/README.md)
 ---
 
 ## 🚀 Tecnologias Utilizadas
