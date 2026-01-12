@@ -7,13 +7,13 @@ Bem-vindo ao meu portfólio! Aqui compartilho projetos desenvolvidos em **Power 
 
 ## 📊 Projetos
 
-**Campanhas de Marketing (Power BI)** Análise de perfil de clientes, comportamento de compra e performance das campanhas. 
+ Campanhas de Marketing (Power BI) Análise de perfil de clientes, comportamento de compra e performance das campanhas. 
 👉 [Ver projeto](01_power_bi/campanhas-marketing/README.md) - 
 
-**Performance de Vendas (Power BI)** Análise de vendas por segmento, categoria, fabricante e região, com narrativas inteligentes e mapas interativos. 
+ Performance de Vendas (Power BI)  Análise de vendas por segmento, categoria, fabricante e região, com narrativas inteligentes e mapas interativos. 
 👉 [Ver projeto](01_power_bi/performance-vendas/README.md) - 
 
-* Análise de Dados RH (Power BI)** 👉 [Ver projeto](01_power_bi/01_power_bi/Dados_RH1/README.md)
+👉 Análise de Dados RH (Power BI)  [Ver projeto](01_power_bi/01_power_bi/Dados_RH1/README.md)
 ---
 
 ## 🚀 Tecnologias Utilizadas
