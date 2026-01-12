@@ -25,14 +25,6 @@ O dashboard foi desenvolvido para responder às seguintes questões estratégica
 
 ---
 
-## 📌 Observações
-
-- Os dados utilizados são **fictícios** e servem apenas para fins educacionais.  
-- O item 8 foi calculado separadamente e não está representado visualmente no dashboard.  
-- O projeto pode ser expandido com análises preditivas, segmentações por departamento e indicadores de desempenho.  
-
----
-
 ## 📬 Contato
 - **LinkedIn:** https://linkedin.com/in/erikaleitao)  
 - **E-mail:** erikasmleitao@gmail.com
