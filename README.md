@@ -13,7 +13,7 @@ Bem-vindo ao meu portfólio! Aqui compartilho projetos desenvolvidos em **Power 
  Performance de Vendas (Power BI)  Análise de vendas por segmento, categoria, fabricante e região, com narrativas inteligentes e mapas interativos. 
 👉 [Ver projeto](01_power_bi/performance-vendas/README.md) - 
 
-** Análise de Dados RH (Power BI)**   [Ver projeto](01_power_bi/Dados_RH1/README.md)
+**Análise de Dados RH (Power BI)**   [Ver projeto](01_power_bi/Dados_RH1/README.md)
 
 ---
 
